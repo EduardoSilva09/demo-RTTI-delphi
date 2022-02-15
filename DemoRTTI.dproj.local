@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/14 20:36:35.000.892,=C:\Users\eduar\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/14 20:38:31.000.547,C:\Users\eduar\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\eduar\Documents\Embarcadero\Studio\Projects\FormDemoEdit.dfm</Transaction>
+    <Transaction>2022/02/14 20:38:31.000.547,C:\Users\eduar\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\eduar\Documents\Embarcadero\Studio\Projects\FormDemoEdit.pas</Transaction>
+    <Transaction>2022/02/14 20:38:58.000.835,C:\Users\eduar\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\eduar\Documents\Embarcadero\Studio\Projects\DemoRTTI.dproj</Transaction>
+    <Transaction>2022/02/14 21:10:45.000.465,C:\Users\eduar\Documents\Embarcadero\Studio\Projects\DemoRTTI.dproj=C:\Users\eduar\Documents\Embarcadero\Studio\Projects\DemoRTTI.dproj</Transaction>
+    <Transaction>2022/02/14 21:14:33.021,C:\Repositorios\demo-RTTI-delphi\FormDemoEdit.dfm=C:\Users\eduar\Documents\Embarcadero\Studio\Projects\FormDemoEdit.dfm</Transaction>
+    <Transaction>2022/02/14 21:14:33.021,C:\Repositorios\demo-RTTI-delphi\FormDemoEdit.pas=C:\Users\eduar\Documents\Embarcadero\Studio\Projects\FormDemoEdit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
